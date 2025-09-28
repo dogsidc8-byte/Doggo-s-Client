@@ -1,14 +1,12 @@
 <div align="center">
 
-# oyvey-ported
-Kosher client base ported to Minecraft 1.21.5 by [@cattyngmd](https://github.com/cattyngmd)
+# Doggo's Client
+Doggo's client is a Minecraft 1.21.5 hack client
 
 <img src="https://i.imgur.com/Lu6rDJB.png" width="90%" />
 
-# Why
-![](https://i.imgur.com/VYjIphG.png)
 
-# What
-Add stuff to it like you would add stuff to your 1.12.2 OyVey paste
+
+
 
 </div>
